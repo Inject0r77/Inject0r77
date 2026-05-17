@@ -44,17 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://vercel.app" alt="My Trophies" />
-</p>
-
-<br />
-
-<p align="center">
   <img src="https://githubusercontent.com" alt="Snake Game" />
 </p>
