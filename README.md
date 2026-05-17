@@ -1,16 +1,20 @@
-## Hi there 👋
+### Набор технологий / Tech Stack
 
-<!--
-**Inject0r77/Inject0r77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" alt="python" />
+  <img src="https://shields.io" alt="javascript" />
+  <img src="https://shields.io" alt="csharp" />
+  <img src="https://shields.io" alt="git" />
+  <img src="https://shields.io" alt="vscode" />
+</p>
 
-Here are some ideas to get you started:
+### Моя статистика GitHub / GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://vercel.app" alt="Stats" />
+</p>
+
+### Трофеи / Trophies
+<p align="center">
+  <img src="https://vercel.app" alt="Trophies" />
+</p>
