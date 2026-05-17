@@ -1,3 +1,5 @@
+<h1 align="center">🐉 Inject0r77 / experienced coder</h1>
+
 <p align="center">
   <!-- 1. C# -->
   <a href="ССЫЛКА_КУДА_ВЕДЕТ_КЛИК"><img src="https://camo.githubusercontent.com/6cd8a21edc9d570547208e0f78e0862ee4cd3508f125218d4ece888881b18674/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373" alt="C#" /></a>
