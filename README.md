@@ -46,3 +46,5 @@
 <p align="center">
   <img src="https://githubusercontent.com" alt="Snake Game" />
 </p>
+
+![snake gif](https://github.com/Inject0r77/Inject0r77/blob/output/github-snake-dark.svg)
