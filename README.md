@@ -43,3 +43,8 @@
   <a href="ССЫЛКА_КУДА_ВЕДЕТ_КЛИК"><img src="https://camo.githubusercontent.com/61a2b9c55fe2311ab964bb080fb40abc2c51fde6e71a6f9bf88cf4de7252fa0d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7079636861726d2f7079636861726d2d6f726967696e616c2e737667" alt="PyCharm" width="48" height="48" /></a>
 </p>
 
+<br />
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
