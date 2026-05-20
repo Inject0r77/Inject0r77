@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Inject0r77 / experienced coder</h1>
+<h1 align="center">🐉 Inject0r77 / coder</h1>
 
 <p align="center">
   <!-- 1. C# -->
